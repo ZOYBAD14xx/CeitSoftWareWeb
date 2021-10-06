@@ -4,55 +4,55 @@
     "title": "Workshop HTML ( Introduction to website )",
     "Date": "10-11/2/2019",
     "Description":"",
-    "img":""
+    "img":"https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/Workshop%20HTML_1.jpg"
   },
   {
     "id":2,
     "title": "Workshop HTML & CSS",
     "Date": "16-17/11/2019",
     "Description":"",
-    "img":""
+    "img":"https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/Workshop%20HTML_2.jpg"
   },
   {
     "id":3,
     "title": "Basic Programming Workshop",
     "Date": "14-15/12/2019",
     "Description":"",
-    "img":""
+    "img":"https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/programming.jpg"
   },
   {
     "id":4,
     "title": "Hacking Workshop by CQ",
     "Date": "11/7/2020",
     "Description":"",
-    "img":""
+    "img":"https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/HackByCQ.jpg"
   },
   {
     "id":5,
     "title": "Web Blog Workshop",
     "Date": "18-19/7/2020",
     "Description":"",
-    "img":""
+    "img":"https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/webblog.jpg"
   },
   {
     "id":6,
     "title": "ງານສຳພາດຮັບສະມາຊິກໃໝ່ Gen3",
     "Date": "16/8/2020",
     "Description":"",
-    "img":""
+    "img":"https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/newGen3.jpg"
   },
   {
     "id":7,
     "title": "Workshop HTML & CSS",
     "Date": "16-17/1/2021",
     "Description":"",
-    "img":""
+    "img":"https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/Workshop%20HTML_gen3.jpg"
   },
   {
     "id":8,
     "title": "Python for webdev Workshop",
     "Date": "28/3/2021",
     "Description":"",
-    "img":""
+    "img":"https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/python.jpg"
   },
 ]

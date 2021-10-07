@@ -1,0 +1,200 @@
+[
+  {
+    "alumnine": [
+      {
+        "id": "1",
+        "fname": "ຈະຕຸພົນ ສຸດທິຈັກ",
+        "nname": "Lunk",
+        "mj": "Computer",
+        "year": "Alumnine",
+        "position": "Advisor",
+        "image":"",
+        "fb": "Lunk Soutthichak"
+      },
+      {
+        "id": "2",
+        "fname": "ໄຊຍະພອນ ມຸກດາ",
+        "nname": "Xai",
+        "mj": "IT",
+        "year": "Alumnine",
+        "position": "UX/UI Designer",
+        "image":"",
+        "fb": "Xaiyaphone Moukda"
+      },
+      {
+        "id": "3",
+        "fname": "ບຸດສະໂກລາຍ ຂັນທະວົງ",
+        "nname": "Bout",
+        "mj": "Computer",
+        "year": "Alumnine",
+        "position": "Dev",
+        "image":"",
+        "fb": "Computer"
+      },
+      {
+        "id": "4",
+        "fname": "ສຸກສຸວັນ ໜູອາໄພ",
+        "nname": "Pa",
+        "mj": "IT",
+        "year": "Alumnine",
+        "position": "Backend",
+        "image":"",
+        "fb": "Pa souksouvanh"
+      },
+      {
+        "id": "5",
+        "fname": "ດ່າກີ້ ຈັນທະວົງ",
+        "nname": "Phong",
+        "mj": "Computer",
+        "year": "Alumnine",
+        "position": "Backend",
+        "image":"",
+        "fb": "Daky Chanthavong"
+      },
+      {
+        "id": "6",
+        "fname": "ພອນສະຫວັນ ແກ້ວໄຊສີ",
+        "nname": "Atom",
+        "mj": "Computer",
+        "year": "Alumnine",
+        "position": "Dev",
+        "image":"",
+        "fb": "Phonesavanh keoxaisy"
+      }
+    ],
+    "present": [
+      {
+        "id": "1",
+        "fname": "ວິໄລພອນ ແກ້ວນິນທອນ",
+        "nname": "Ton",
+        "mj": "IT",
+        "year": "4",
+        "position": "Sub-leader Activity",
+        "image":"",
+        "fb": "Ton Knt"
+      },
+      {
+        "id": "2",
+        "fname": "ຟ້າໃສ ໂຄດໂຍທາ",
+        "nname": "Far",
+        "mj": "IT",
+        "year": "4",
+        "position": "Coordinator",
+        "image":"",
+        "fb": "Farsai Khodyotha"
+      },
+      {
+        "id": "3",
+        "fname": "ວິໄລສັກ ວໍລະຈັກ",
+        "nname": "Edward",
+        "mj": "Computer",
+        "year": "4",
+        "position": "Project Manager",
+        "image":"",
+        "fb": "Edward Vilaysack"
+      },
+      {
+        "id": "4",
+        "fname": "ສຸກອານັນ ເທບສົມບັດ",
+        "nname": "Hoy",
+        "mj": "Computer",
+        "year": "4",
+        "position": "HoD (Head of Development)",
+        "image":"",
+        "fb": "Soukananh Thepsombath"
+      },
+      {
+        "id": "5",
+        "fname": "ສຸລິກອນ ຄຳປະເສີດ",
+        "nname": "Kop",
+        "mj": "Computer",
+        "year": "4",
+        "position": "Backend",
+        "image":"",
+        "fb": "Kopkap soulikone"
+      },
+      {
+        "id": "6",
+        "fname": "ຄຳລອງ ທຳມະວົງ",
+        "nname": "Long",
+        "mj": "Computer",
+        "year": "4",
+        "position": "Support Team",
+        "image":"",
+        "fb": "Khamlong thammavong"
+      },
+      {
+        "id": "6",
+        "fname": "ປີຊານະທອນ ບຸນລືໄຕ",
+        "nname": "Tinou",
+        "mj": "Computer",
+        "year": "4",
+        "position": "Manager",
+        "image":"",
+        "fb": "Tinu NiLhae"
+      }
+    ],
+    "new": [
+      {
+        "id": "1",
+        "fname": "ຄອນປະເສີດ ສຸນາເຄນ",
+        "nname": "Obie",
+        "mj": "Computer",
+        "year": "3",
+        "position": "Dev",
+        "image":"",
+        "fb": "Khonepaserth Sounakhen"
+      },
+      {
+        "id": "2",
+        "fname": "ທິບທິດາ ກໍຊານົນ",
+        "nname": "Nim",
+        "mj": "Computer",
+        "year": "3",
+        "position": "Dev",
+        "image":"",
+        "fb": "N'Noumnim Thipthida"
+      },
+      {
+        "id": "3",
+        "fname": "ສົມສຸກ ສອນສິນໄຊ",
+        "nname": "Kapou",
+        "mj": "Computer",
+        "year": "3",
+        "position": "Support Team",
+        "image":"",
+        "fb": "Somsouk sonesinxay"
+      },
+      {
+        "id": "4",
+        "fname": "ນາງ ພຸດທະສອນ ເພັງມີໄຊ",
+        "nname": "Noy",
+        "mj": "Computer",
+        "year": "3",
+        "position": "Content Creator",
+        "image":"",
+        "fb": "LittleNoy Noy"
+      },
+      {
+        "id": "5",
+        "fname": "ທ ທັດສະພອນ ຈັນຈະເລີນ",
+        "nname": "Bank",
+        "mj": "IT",
+        "year": "3",
+        "position": "Design ",
+        "image":"",
+        "fb": "Tsp Bk chnn"
+      },
+      {
+        "id": "6",
+        "fname": "ທ ທະນົງສັກ ວົງບົວສີ",
+        "nname": "Dee",
+        "mj": "Computer",
+        "year": "3",
+        "position": "Activity ",
+        "image":"",
+        "fb": "Thanongsak vbs"
+      }
+    ]
+  }
+]

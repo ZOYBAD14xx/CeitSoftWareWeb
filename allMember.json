@@ -63,8 +63,28 @@
       }
     ],
     "present": [
-      {
-        "id": "0",
+            {
+        "id": "1",
+        "fname": "ວິໄລສັກ ວໍລະຈັກ",
+        "nname": "Edward",
+        "mj": "Computer",
+        "year": "4",
+        "position": "Project Manager",
+        "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/ed.jpg",
+        "fb": "Edward Vilaysack"
+      },
+            {
+        "id": "2",
+        "fname": "ສຸກອານັນ ເທບສົມບັດ",
+        "nname": "Hoy",
+        "mj": "Computer",
+        "year": "4",
+        "position": "HoD (Head of Development)",
+        "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/hoy.JPG",
+        "fb": "Soukananh Thepsombath"
+      },
+            {
+        "id": "3",
         "fname": "ສຸກທິດາ ວິໄລມະນີວົງ",
         "nname": "Kee",
         "mj": "Computer",
@@ -73,8 +93,8 @@
         "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/kee.jpg",
         "fb": "S'kee errorist"
       },
-      {
-        "id": "1",
+            {
+        "id": "4",
         "fname": "ວິໄລພອນ ແກ້ວນິນທອນ",
         "nname": "Ton",
         "mj": "IT",
@@ -84,7 +104,7 @@
         "fb": "Ton Knt"
       },
       {
-        "id": "2",
+        "id": "5",
         "fname": "ຟ້າໃສ ໂຄດໂຍທາ",
         "nname": "Far",
         "mj": "IT",
@@ -93,28 +113,9 @@
         "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/far.JPG",
         "fb": "Farsai Khodyotha"
       },
+
       {
-        "id": "3",
-        "fname": "ວິໄລສັກ ວໍລະຈັກ",
-        "nname": "Edward",
-        "mj": "Computer",
-        "year": "4",
-        "position": "Project Manager",
-        "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/ed.jpg",
-        "fb": "Edward Vilaysack"
-      },
-      {
-        "id": "4",
-        "fname": "ສຸກອານັນ ເທບສົມບັດ",
-        "nname": "Hoy",
-        "mj": "Computer",
-        "year": "4",
-        "position": "HoD (Head of Development)",
-        "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/hoy.JPG",
-        "fb": "Soukananh Thepsombath"
-      },
-      {
-        "id": "5",
+        "id": "6",
         "fname": "ສຸລິກອນ ຄຳປະເສີດ",
         "nname": "Kop",
         "mj": "Computer",
@@ -124,7 +125,7 @@
         "fb": "Kopkap soulikone"
       },
       {
-        "id": "6",
+        "id": "7",
         "fname": "ຄຳລອງ ທຳມະວົງ",
         "nname": "Long",
         "mj": "Computer",
@@ -134,7 +135,7 @@
         "fb": "Khamlong thammavong"
       },
       {
-        "id": "7",
+        "id": "8",
         "fname": "ປີຊານະທອນ ບຸນລືໄຕ",
         "nname": "Tinou",
         "mj": "Computer",

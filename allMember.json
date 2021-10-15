@@ -69,7 +69,7 @@
         "nname": "Edward",
         "mj": "Computer",
         "year": "4",
-        "position": "Project Manager",
+        "position": "Leader",
         "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/ed.jpg",
         "fb": "Edward Vilaysack"
       },
@@ -79,7 +79,7 @@
         "nname": "Hoy",
         "mj": "Computer",
         "year": "4",
-        "position": "HoD (Head of Development)",
+        "position": "Leader of Development",
         "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/hoy.JPG",
         "fb": "Soukananh Thepsombath"
       },
@@ -89,7 +89,7 @@
         "nname": "Kee",
         "mj": "Computer",
         "year": "4",
-        "position": "Leader( HR )",
+        "position": "Leader of HR",
         "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/kee.jpg",
         "fb": "S'kee errorist"
       },
@@ -99,7 +99,7 @@
         "nname": "Ton",
         "mj": "IT",
         "year": "4",
-        "position": "Sub-leader Activity",
+        "position": "Leader of Activity",
         "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/ton.JPG",
         "fb": "Ton Knt"
       },
@@ -109,18 +109,17 @@
         "nname": "Far",
         "mj": "IT",
         "year": "4",
-        "position": "Coordinator",
+        "position": "Coordinator/Front-End",
         "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/far.JPG",
         "fb": "Farsai Khodyotha"
       },
-
       {
         "id": "6",
         "fname": "ສຸລິກອນ ຄຳປະເສີດ",
         "nname": "Kop",
         "mj": "Computer",
         "year": "4",
-        "position": "Backend",
+        "position": "Back-End",
         "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/kop.jpg",
         "fb": "Kopkap soulikone"
       },
@@ -130,7 +129,7 @@
         "nname": "Long",
         "mj": "Computer",
         "year": "4",
-        "position": "Support Team",
+        "position": "Development",
         "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/long.jpg",
         "fb": "Khamlong thammavong"
       },
@@ -140,7 +139,7 @@
         "nname": "Tinou",
         "mj": "Computer",
         "year": "4",
-        "position": "Manager",
+        "position": "Support",
         "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/tinou.jpg",
         "fb": "Tinu NiLhae"
       }

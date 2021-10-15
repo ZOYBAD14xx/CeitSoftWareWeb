@@ -2,13 +2,13 @@
   {
     "id": "0",
     "fname": "ຊອ. ປທ. ສິດທິພອນ ພັນດາລາ",
-    "position": "Advisor",
+    "position": "ອາຈານສອນ",
     "image":"https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/advisor/1.jpg"
   },
   {
     "id": "1",
     "fname": "ປທ. ເມກຈອນ ບຸນທັນ",
-    "position": "Advisor",
+    "position": "ຫົວໜ້າໜ່ວຍເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ",
     "image":"https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/advisor/2.jpg"
   }
 ]

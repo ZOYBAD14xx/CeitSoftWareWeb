@@ -53,6 +53,38 @@
     "title": "Python for webdev Workshop",
     "Date": "28/3/2021",
     "Description": "",
-    "img": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/python.jpg"
+    "img": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/python.jpg",
+    "gal":[
+      {
+        "src":"/assets/image/python/1.jpg"
+      },
+      {
+        "src":"/assets/image/python/2.jpg"
+      },
+      {
+        "src":"/assets/image/python/3.jpg"
+      },
+      {
+        "src":"/assets/image/python/4.jpg"
+      },
+      {
+        "src":"/assets/image/python/5.jpg"
+      },
+      {
+        "src":"/assets/image/python/6.jpg"
+      },
+      {
+        "src":"/assets/image/python/7.jpg"
+      },
+      {
+        "src":"/assets/image/python/8.jpg"
+      },
+      {
+        "src":"/assets/image/python/9.jpg"
+      },
+      {
+        "src":"/assets/image/python/10.jpg"
+      }
+    ]
   }
 ]

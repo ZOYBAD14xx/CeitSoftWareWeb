@@ -80,7 +80,7 @@
         "mj": "Computer",
         "year": "4",
         "position": "Leader of Development",
-        "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/hoy.JPG",
+        "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/hoy.jpg",
         "fb": "Soukananh Thepsombath"
       },
             {
@@ -152,7 +152,7 @@
         "mj": "Computer",
         "year": "3",
         "position": "Dev",
-        "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/obie.JPG",
+        "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/obie.jpg",
         "fb": "Khonepaserth Sounakhen"
       },
       {
@@ -162,47 +162,37 @@
         "mj": "Computer",
         "year": "3",
         "position": "Dev",
-        "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/nim.JPG",
+        "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/nim.jpg",
         "fb": "N'Noumnim Thipthida"
       },
       {
         "id": "3",
-        "fname": "ສົມສຸກ ສອນສິນໄຊ",
-        "nname": "Kapou",
-        "mj": "Computer",
-        "year": "3",
-        "position": "Support Team",
-        "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/kapou.JPG",
-        "fb": "Somsouk sonesinxay"
-      },
-      {
-        "id": "4",
         "fname": "ນາງ ພຸດທະສອນ ເພັງມີໄຊ",
         "nname": "Noy",
         "mj": "Computer",
         "year": "3",
         "position": "Content Creator",
-        "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/noy.JPG",
+        "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/noy.jpg",
         "fb": "LittleNoy Noy"
       },
       {
-        "id": "5",
+        "id": "4",
         "fname": "ທ ທັດສະພອນ ຈັນຈະເລີນ",
         "nname": "Bank",
         "mj": "IT",
         "year": "3",
         "position": "Design ",
-        "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/bank.JPG",
+        "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/bank.jpg",
         "fb": "Tsp Bk chnn"
       },
       {
-        "id": "6",
+        "id": "5",
         "fname": "ທ ທະນົງສັກ ວົງບົວສີ",
         "nname": "Dee",
         "mj": "Computer",
         "year": "3",
         "position": "Activity ",
-        "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/dee.JPG",
+        "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/dee.jpg",
         "fb": "Thanongsak vbs"
       }
     ]

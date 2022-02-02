@@ -195,6 +195,58 @@
         "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/dee.jpg",
         "fb": "Thanongsak vbs"
       }
+    ],
+    "new_gen4": [
+      {
+        "id": "1",
+        "fname": "ບຸນເຮືອງ ແສນຄຳ",
+        "nname": "Boun",
+        "mj": "Computer",
+        "year": "2",
+        "position": "Member",
+        "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/gen4.png",
+        "fb": "Bounheuang Senkham"
+      },
+      {
+        "id": "2",
+        "fname": "ອານຸລັກ ມະນີ",
+        "nname": "Big",
+        "mj": "Computer",
+        "year": "2",
+        "position": "Member",
+        "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/gen4.png",
+        "fb": "Zuki Ps"
+      },
+      {
+        "id": "3",
+        "fname": "ພຸດທະສອນ ສອນທະລາ",
+        "nname": "Maem",
+        "mj": "IT",
+        "year": "2",
+        "position": "Member",
+        "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/gen4.png",
+        "fb": "Phouthasone Maem Sonethala"
+      },
+      {
+        "id": "4",
+        "fname": "ຈິລະຢຸດ ນິດວົງໄຂ",
+        "nname": "Blank",
+        "mj": "IT",
+        "year": "2",
+        "position": "Member ",
+        "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/gen4.png",
+        "fb": "Z'Jilayouthblank Nidvongkhai"
+      },
+      {
+        "id": "5",
+        "fname": "ພັນມະຫາ ຈັນທະວັນເຮືອງ",
+        "nname": "Tolae",
+        "mj": "IT",
+        "year": "2",
+        "position": "Member ",
+        "image": "https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/gen4.png",
+        "fb": "Tolae Chanthavanhueng"
+      }
     ]
   }
 ]

@@ -8,5 +8,15 @@
         "position": "Co-founder",
         "image":"https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/advisor/Ted.jpg",
         "fb": "Thanongsine Chantakham"
-      }
+      },
+      {
+        "id": "2",
+        "fname": "ຈະຕຸພົນ ສຸດທິຈັກ",
+        "nname": "Lunk",
+        "mj": "Computer",
+        "year": "Alumnine",
+        "position": "Advisor",
+        "image":"https://raw.githubusercontent.com/ZOYBAD14xx/CeitSoftWareWeb/main/image/allmember/lunk.jpg",
+        "fb": "Lunk Soutthichak"
+      },
 ]
